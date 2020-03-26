@@ -11,9 +11,7 @@ this package is .net nuget package made by Bkdad, korean uncle developer, park36
 [Link]: https://docs.uipath.com/studio/docs/managing-activities-packages
 4. import name space
 [Link]: https://docs.uipath.com/studio/docs/importing-new-namespaces
-5. after upper steps, you can use the expended method of datetime and string ...
-
-in many VB script window like write line activity, use it follow by like this
-
-ex) stringVariable.isNumeric()
-datetimeVariable.FirstDayOfMonth(-2)
+5. after upper steps, you can use the expended method of datetime and string ...   
+   -in many VB script window like write line activity, use it follow by like this   
+   -ex) stringVariable.isNumeric()   
+   -datetimeVariable.FirstDayOfMonth(-2)
